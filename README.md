@@ -1,3 +1,6 @@
+_To run this app, in the terminal, execute:_ 
+
+streamlit run app/app.py
 
 # AI-Powered CPT Code Assistant
 
